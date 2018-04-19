@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="camera_view" />
+    <item type="id" name="btn_capture" />
+    <item type="id" name="image_view" />
+    <item type="id" name="image_skin" />
+    <item type="id" name="btn_cv" />
+    <item type="id" name="text_cv" />
+    <item type="id" name="layout_cv" />
+    <item type="id" name="label_password" />
+    <item type="id" name="label_password_detail" />
+    <item type="id" name="text_password" />
+    <item type="id" name="btn_password" />
+    <item type="id" name="btn_scroll_back" />
+    <item type="id" name="btn_scroll_forward" />
+    <item type="id" name="view_btn_area" />
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project Finger</string>
+    <string name="btn_view">Unlock</string>
+    <string name="btn_password">Set Password</string>
+    <string name="btn_capture">Capture</string>
+    <string name="btn_show_img">Display image</string>
+    <string name="folder_name">ProjectFinger</string>
+    <string name="label_password">Enter password below. </string>
+    <string name="label_detail">
+        Passwords consist of numbers 0 to 5. Add a period after a number to indicate that the number should appear at the corner or a backslash (/) to indicate edge; otherwise it should appear at the center.
+    </string>
+    <string name="prefs_file">cc.harryzhang.projectfinger.prefs</string>
+    <string name="prefs_key_password">password</string>
+</resources>
